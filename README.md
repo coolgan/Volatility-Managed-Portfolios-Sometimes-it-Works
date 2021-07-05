@@ -3,7 +3,7 @@
 
 ## 策略概述
 
-参考Moreira and Muir（2017 JF）构建波动率管理组合（Volatility-Managed Portfolios，VMP），基于2000年到2021年年全A股数据展开实证。
+参考Moreira and Muir（2017 JF）构建波动率管理组合（Volatility-Managed Portfolios，VMP），基于2000年到2021年全A股数据展开实证。
 
 针对Liu et al.（2019）对VMP样本外回测结果的批评，本文测试了VMP的样本外表现，得出不同的结论。
 
