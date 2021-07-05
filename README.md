@@ -37,8 +37,8 @@
 
 ### 样本内
 
-![image-20210705153740122](README.assets/image-20210705153740122.png)
+![6](README.assets/6.jpg)
 
 ### 样本外
 
-![image-20210705153752524](README.assets/image-20210705153752524.png)
+![7](README.assets/7.jpg)
