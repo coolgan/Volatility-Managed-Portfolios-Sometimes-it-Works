@@ -1,6 +1,5 @@
 # Volatility-Managed Portfolios
 
-[toc]
 
 ## 策略概述
 
