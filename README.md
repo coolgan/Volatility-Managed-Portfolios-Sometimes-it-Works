@@ -7,6 +7,11 @@
 
 针对Liu et al.（2019, JPM）对VMP样本外回测结果的批评，本文测试了VMP的样本外表现，得出不同的结论。
 
+**代码和数据说明**
+
+主要代码为vol-timing.R，主要用到的数据为factor_daily中的因子收益率
+
+策略细节详见附件中的pdf。
 ## 策略原理
 
 ![image-20210705153502682](README.assets/image-20210705153502682.png)
@@ -34,9 +39,3 @@
 ### 样本外
 
 ![image-20210705153752524](README.assets/image-20210705153752524.png)
-
-## 代码和数据说明
-
-主要代码为vol-timing.R
-
-主要数据为factor_daily中的因子收益率
