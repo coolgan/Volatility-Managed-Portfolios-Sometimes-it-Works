@@ -11,7 +11,7 @@
 
 主要代码为vol-timing.R，主要用到的数据为factor_daily中的因子收益率
 
-策略细节详见附件中的pdf。
+参考文献和策略细节详见附件中的pdf。
 ## 策略原理
 
 ![image-20210705153502682](README.assets/image-20210705153502682.png)
